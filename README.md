@@ -1,8 +1,8 @@
 # PwC Virtual Case Experience - Power BI 
 
-Live Dashboard: [Call Center Analysis](https://www.novypro.com/project/atliq-mart-supply-chain-analysis-4)
+Live Dashboard: [Call Center Analysis](https://app.powerbi.com/view?r=eyJrIjoiODI4N2I0NGQtM2JjMi00NWM3LTgwMTQtOTZlY2FkZDA4MmVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Live Dashboard: [Customer Churn Analysis](https://www.novypro.com/project/atliq-mart-supply-chain-analysis-4)
+Live Dashboard: [Customer Churn Analysis](https://app.powerbi.com/view?r=eyJrIjoiMTM0NjYxY2ItOTE4Yy00NzM3LTkzMzMtNDk0NDgxMTBkNWMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Live Dashboard: [Diversity & Inclusion](https://www.novypro.com/project/atliq-mart-supply-chain-analysis-4)
 
