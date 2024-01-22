@@ -4,8 +4,6 @@ Live Dashboard: [Call Center Analysis](https://app.powerbi.com/view?r=eyJrIjoiOD
 
 Live Dashboard: [Customer Churn Analysis](https://app.powerbi.com/view?r=eyJrIjoiMTM0NjYxY2ItOTE4Yy00NzM3LTkzMzMtNDk0NDgxMTBkNWMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Live Dashboard: [Diversity & Inclusion](https://www.novypro.com/project/atliq-mart-supply-chain-analysis-4)
-
 This case experience program was composed of three dashboard projects using Power BI. It was an online internship with three main tasks to complete. which are:
 
 - **Call Centre Trends Report**: Analysed customer satisfaction, call abandonment, handling, and agent performance to identify areas for improvement.
